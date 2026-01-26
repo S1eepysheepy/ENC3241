@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Your Name Here
+# Liam Martin
 
-[Paste your professional paragraph from Week 2 here]
+Liam Martin is an aspiring cybersecurity professional. He seeks to use his burgeoning skills in Information Technology to land an internship and further grow his skillset. Throughout his time enrolled at the University of Central Florida, he has gained proficiency in the programming languages C++ and Python, as well as the CCNA1 and Tech+ Certifications. Through self-study, he has become knowledgeable in the use of the Linux family of operating systems, as well as tools such as Wireshark and Microsoft Office. Liam's portfolio highlights his commitment to developing his skills in his chosen field.
 
 ## Professional Writing Samples/Projects
 
